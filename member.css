@@ -16,7 +16,7 @@ img{
     height: 800px;
     margin: 300px ;
     margin-top: 200px;
-    margin-left: 3500px;
+    margin-left: 300px;
     align-items: center;
 }
 h1{
@@ -32,7 +32,7 @@ h2{
     margin: 30px ;
     margin-top: 200px;
     margin-left: 100px;
-    font-size: 300px;
+    font-size: 150px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: whitesmoke;
